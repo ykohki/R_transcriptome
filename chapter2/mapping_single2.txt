@@ -1,0 +1,3 @@
+FileName	SampleName
+sample_RNAseq1.fa	sample1
+sample_RNAseq2.fa	sample2

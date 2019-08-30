@@ -1,0 +1,2 @@
+FileName1	FileName2	SampleName
+sample_paired1.fq.gz	sample_paired2.fq.gz	uge

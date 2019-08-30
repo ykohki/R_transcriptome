@@ -1,0 +1,3 @@
+FileName	SampleName
+SRR002324.fastq.gz	Kidney
+SRR002322.fastq.gz	Liver

@@ -1,0 +1,2 @@
+FileName	SampleName
+sample_RNAseq1.fa	hoge1

@@ -1,0 +1,4 @@
+[1] "Executing bowtie on kyamadaPro.local using 1 cores. Parameters:"
+[1] "'/Users/yamada/RNA-seq/【R】トランスクリプトーム解析/chapter2/mapping/ref_genome.fa.Rbowtie/bowtieIndex' '/Users/yamada/RNA-seq/【R】トランスクリプトーム解析/chapter2/mapping/sample_RNAseq1.fa' -m 1 --best --strata -v 2 -f -S -p 1 '/var/folders/8g/l6tj9lds0z3b15_dc_wgvy9w0000gn/T//Rtmp3OVV6p/sample_RNAseq1.fa92a37f5116f.sam'"
+[1] "Converting sam file to sorted bam file on kyamadaPro.local : /var/folders/8g/l6tj9lds0z3b15_dc_wgvy9w0000gn/T//Rtmp3OVV6p/sample_RNAseq1.fa92a37f5116f.sam"
+[1] "Error on kyamadaPro.local processing sample /Users/yamada/RNA-seq/【R】トランスクリプトーム解析/chapter2/mapping/sample_RNAseq1.fa : 'asBam' truncated input file at record 2\n  SAM file: '/var/folders/8g/l6tj9lds0z3b15_dc_wgvy9w0000gn/T//Rtmp3OVV6p/sample_RNAseq1.fa92a37f5116f.sam'\n"
